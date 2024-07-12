@@ -1,1 +1,1 @@
-# 1
+# Basit bir öklid kodu
